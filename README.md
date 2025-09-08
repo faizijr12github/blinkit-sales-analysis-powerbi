@@ -77,10 +77,9 @@ Added **Clear All Filters button** for better usability.
 ---
 
 ## 📂 Project Structure
-📁 Blinkit-Sales-Analysis
-┣ 📊 Blinkit_Dashboard.pbix # Power BI Dashboard file
+┣ 📊 Blinkit Sales Analysis.pbix # Power BI Dashboard file
 ┣ 📄 README.md # Project documentation
-┗ 📂 Dataset # Raw dataset (if shared)
+┗ 📂 BlinkIT Grocery Data.xlsx # Excel file
 
 ---
 
@@ -92,11 +91,11 @@ Added **Clear All Filters button** for better usability.
 
 ---
 
-## 📌 Insights
-- Outlets with **Medium sizes** tend to have **higher sales** of **$507.90k**  
-- **Low Fat Content items** contribute more sales than Regular which are **$776.32k**
-- **Tier 3 locations** show the highest sales compared to Tier 1 & 2
-- Highest revenue from outlet establishment was **$205K** in the year **2018**
+## 📌 Insights from Analysis
+- 🏪 **Medium-sized outlets** generated the **highest sales** at **$507.90K**.  
+- 🥗 **Low Fat Content items** outperformed Regular, contributing **$776.32K** in sales.  
+- 🌍 **Tier 3 locations** showed the **highest sales performance** compared to Tier 1 & 2.  
+- 📅 The **year 2018** recorded the **highest outlet revenue** of **$205K**.  
 
 ---
 
